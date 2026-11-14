@@ -29,8 +29,8 @@ Your support on **Patreon** or **Boosty** directly funds new radio gear, 3D prin
 * 🎥 **YouTube (EN/RU):** DiyHam *[[https://youtube.com]@DiyHam(https://www.youtube.com/@DiyHam)*
 * 🌎 **YouTube (ES):** Latin American Ham Channel *(soon)*
 * 📐 **Thingiverse:** 3D Models & Designs *[https://www.thingiverse.com/ua6ahp/designs](https://www.thingiverse.com/ua6ahp/designs)*
-* ☕ **Patreon:** Support ZP6AHP Radio Lab *[https://patreon.com](https://patreon.com)*
-* 🚀 **Boosty:** Support on Boosty *[https://boosty.to](https://boosty.to)*
+* ☕ **Patreon:** Support ZP6AHP Radio Lab *[https://www.patreon.com/cw/ZP6AHP](https://www.patreon.com/cw/ZP6AHP)*
+* 🚀 **Boosty:** Support on Boosty *[https://boosty.to/diyham](https://boosty.to/diyham)*
 * 📻 **QRZ.com:** [UA6AHP Profile]([https://qrz.com](https://www.qrz.com/db/UA6AHP))
 
 Let’s keep experimenting, coding, and making!  
