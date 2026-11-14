@@ -31,7 +31,7 @@ Your support on **Patreon** or **Boosty** directly funds new radio gear, 3D prin
 * 📐 **Thingiverse:** 3D Models & Designs *[https://www.thingiverse.com/ua6ahp/designs](https://www.thingiverse.com/ua6ahp/designs)*
 * ☕ **Patreon:** Support ZP6AHP Radio Lab *[https://patreon.com](https://patreon.com)*
 * 🚀 **Boosty:** Support on Boosty *[https://boosty.to](https://boosty.to)*
-* 📻 **QRZ.com:** [UA6AHP Profile](https://qrz.com)
+* 📻 **QRZ.com:** [UA6AHP Profile]([https://qrz.com](https://www.qrz.com/db/UA6AHP))
 
 Let’s keep experimenting, coding, and making!  
 **73 de UA6AHP (Evgenii)!**
